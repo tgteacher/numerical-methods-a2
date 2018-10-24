@@ -23,7 +23,7 @@ def spaces_and_tabs():
         file uses *spaces* for indentation: don't add tabs to it!
     Remember that you are strongly encouraged to check the outcome of the tests
     by running pytest on your computer and by checking Travis.
-    Task: nothing to implement in this function, that's a bonus point, yay!
+    Task: Nothing to implement in this function, that's a bonus point, yay!
           Just don't loose it by adding syntax errors to this file...
     Test: 'tests/test_spaces_and_tabs.py'
     '''
@@ -43,7 +43,8 @@ def problem_3_2_5():
     in parts per million in Antarctica.
     Task: This function must return the average increase in ppm per year,
           obtained by fitting a straight line to the data.
-    Test: function 'test_problem' in 'tests/test_problem_3_2_5.py'
+    Test: Function 'test_problem' in 'tests/test_problem_3_2_5.py'
+    Hint: Fitting is meant in the least-square sense.
     '''
 
     year = arange(1994, 2010)  # from 1994 to 2009
@@ -56,9 +57,10 @@ def problem_3_2_5():
 
 def extrapolation_3_2_5():
     '''
-    Task: return the estimated atmospheric CO2 concentration in Antarctica 
+    Task: Return the estimated atmospheric CO2 concentration in Antarctica 
           in 2020.
-    Test: function 'test_2020' in 'tests/test_problem_3_2_5.py'
+    Test: Function 'test_2020' in 'tests/test_problem_3_2_5.py'
+    Hint: Use the result of the previous function.
     '''
     ## YOUR CODE HERE
     raise Exception("Not implemented")
