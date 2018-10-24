@@ -1,4 +1,4 @@
-# A1: Systems of Linear Algebraic Equations
+# A2: Interpolation, Curve Fitting, Non-Linear Equations and Differentiation
 
 
 ## Important note
@@ -27,10 +27,10 @@ and clone it using `git clone <repo_url>`.
 ## Assignment submission
 
 You have to submit your assignment through GitHub classroom, using the following procedure:
-1. Accept the assignment at https://classroom.github.com/a/tQkTwsFF. This will create your own copy
-   of the assignment repository, located at http://github.com/tgteacher/COMP-361-A1-F2018-your_github_username.
+1. Accept the assignment at https://classroom.github.com/a/KSBGq5_4. This will create your own copy
+   of the assignment repository, located at http://github.com/tgteacher/COMP-361-A2-F2018-your_github_username.
 2. Clone your copy of the assignment repository on your computer, and 
-implement the functions in `a1.py`, following the instructions in the 
+implement the functions in `a2.py`, following the instructions in the 
 documentation strings.
 3. Commit your solution to your local copy of the assignment repository.
 4. Push your solution to your GitHub copy of the assignment repository.
@@ -44,7 +44,7 @@ will be graded based on a snapshot of your repository taken on the
 submission deadline.
 
 Note that **you are not allowed to use functions from 
-`numpy.linalg` to implement this assignment**.
+`numpy.linalg` or any other library except `math` to implement this assignment**.
 
 
 ## Evaluation
