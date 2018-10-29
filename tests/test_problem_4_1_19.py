@@ -11,5 +11,5 @@ def test_f_and_df():
 
 def test_problem_4_1_19():
     assert(check_linalg())
-    tol = 10E-4
-    assert(abs(problem_4_1_19(335, 0.1)- 70.8779722)<tol)
+    tol = 10E-2
+    assert(abs(problem_4_1_19(335, tol)- 70.8779722)<tol)
