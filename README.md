@@ -27,8 +27,8 @@ and clone it using `git clone <repo_url>`.
 ## Assignment submission
 
 You have to submit your assignment through GitHub classroom, using the following procedure:
-1. Accept the assignment at https://classroom.github.com/a/KSBGq5_4. This will create your own copy
-   of the assignment repository, located at http://github.com/tgteacher/COMP-361-A2-F2018-your_github_username.
+1. Accept the assignment at https://classroom.github.com/a/LSZbh099. This will create your own copy
+   of the assignment repository, located at http://github.com/tgteacher/COMP-361-A2-F2019-your_github_username.
 2. Clone your copy of the assignment repository on your computer, and 
 implement the functions in `a2.py`, following the instructions in the 
 documentation strings.
