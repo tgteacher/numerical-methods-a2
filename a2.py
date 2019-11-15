@@ -200,7 +200,7 @@ def d_dd_5_1_11(x):
     Task: return a tuple containing the value of f' and f'' at x.
     Parameter: x is the value at which f' and f'' must be computed.
     Test: function 'test_d_dd' of 'tests/test_problem_5_1_11.py'
-    Example: d_dd_5_1_11(0) must return (8.56, -0.6).
+    Example: d_dd_5_1_11(0) must return (-8.56, -0.6).
     Hint: differentiate the interpolant returned by the previous function.
     '''
     ## YOUR CODE HERE
